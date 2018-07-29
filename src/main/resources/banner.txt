@@ -1,0 +1,17 @@
+                           iiii
+                          i::::i
+                           iiii
+
+xxxxxxx      xxxxxxx     iiiiiii        aaaaaaaaaaaaa            ssssssssss
+ x:::::x    x:::::x      i:::::i        a::::::::::::a         ss::::::::::s
+  x:::::x  x:::::x        i::::i        aaaaaaaaa:::::a      ss:::::::::::::s
+   x:::::xx:::::x         i::::i                 a::::a      s::::::ssss:::::s
+    x::::::::::x          i::::i          aaaaaaa:::::a       s:::::s  ssssss
+     x::::::::x           i::::i        aa::::::::::::a         s::::::s
+     x::::::::x           i::::i       a::::aaaa::::::a            s::::::s
+    x::::::::::x          i::::i      a::::a    a:::::a      ssssss   s:::::s
+   x:::::xx:::::x        i::::::i     a::::a    a:::::a      s:::::ssss::::::s
+  x:::::x  x:::::x       i::::::i     a:::::aaaa::::::a      s::::::::::::::s
+ x:::::x    x:::::x      i::::::i      a::::::::::aa:::a      s:::::::::::ss
+xxxxxxx      xxxxxxx     iiiiiiii       aaaaaaaaaa  aaaa       sssssssssss
+
